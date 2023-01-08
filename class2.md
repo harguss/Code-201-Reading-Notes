@@ -1,3 +1,3 @@
-# Class 7
+# Class 2
 
 This is where I post my notes
