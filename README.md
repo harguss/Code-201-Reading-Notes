@@ -19,7 +19,12 @@
 
 ### A place to share most relevant daily taught information.
 
-### 301 
+### 301
+- [Reading 01](class1.md)
+- [Reading 02](class2.md)
+- [Reading 03](class3.md)
+- [Reading 04](class4.md)
+- [Reading 05](class5.md)
 - [Reading 06](class6.md)
 - [Reading 07](class7.md)
 - [Reading 08](class8.md)
