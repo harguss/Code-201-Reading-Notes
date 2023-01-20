@@ -1,10 +1,9 @@
-NOTES for DeltaV
+# **NOTES_for_DeltaV**
 
-01
+## HTML & CSS
 
-HTML & CSS
+## HTML
 
-HTML
  A. Describes the Structure of the pages by using Elements
  B.Elements
      1. Tells the browser info between tags
@@ -14,11 +13,13 @@ HTML
               A. Extra information you are supplying about the element.
               B.  They appear on the opening tag and have two parts- Name, and Value
 
+## JS chapter one
 
-JS chapter one
  I. Script in Javascript
     A series of instructions that a computer uses to achieve a goal
-    B Browser uses different parts of the instructions depending on user interaction with the                    web page   
+
+    B Browser uses different parts of the instructions depending on user interaction with theweb page 
+
     C Scripts can run different sections of the code in response to the situation around them
 
 II. Browser interpretation of HTML
@@ -29,6 +30,8 @@ II. Browser interpretation of HTML
 
 III.Calling a Method of an Object
     A. Objects
+
     B. Member Operator 
         ! A dot(.) used between the object name and the member you want to access
+
     C. Parameters
