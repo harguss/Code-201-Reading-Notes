@@ -3,6 +3,7 @@
 ## Code 301 - Foundations of Software Development
 
 ## This is where I write my notes
+
 Who is Roy Fielding? He helped write http and is the originator of Representaltional State Transfeer (REST).
 1xx Informational
 2xx Sucess
