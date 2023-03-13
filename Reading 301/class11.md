@@ -6,17 +6,25 @@ nosql vs sql
 
 1.Fill in the chart below with five differences between SQL and NoSQL databases:
 
-SQL	                                                   NoSQL
- 	Schema                                             no schema
- 	relational                                         no/few relations
- 	data table needs to be merged with a query         data stays in one document collection
- 	horizontal scaling is difficult/impossible         both horizontal and vertical scaling 
+### SQL
 
-1. What kind of data is a good fit for an SQL database? 
-2. Give a real world example.
-3. What kind of data is a good fit a NoSQL database?
-4. Give a real world example.
-5. Which type of database is best for hierarchical data storage?
+ 1. Schema
+ 2. relational
+ 3. data table needs to be merged with a query
+ 4. horizontal scaling is difficult/impossible
+
+### NoSQL
+
+ 1. no schema
+ 2. no/few relations
+ 3. both horizontal and vertical scaling
+ 4. data stays in one document collection
+
+ 1.What kind of data is a good fit for adatabase?
+ 2.Give a real world example.
+ 3.What kind of data is a good fit a NoSQ database?
+ 4. Give a real world example.
+ 5. Which type of database is best for hierarchical data storage?
 6.Which type of database is best for scalability?
 
 ## Videos

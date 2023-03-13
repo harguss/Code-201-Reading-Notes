@@ -26,5 +26,5 @@ Build A REST API With Node.js, Express, & MongoDB - Quick - First 20 minutes
 4. What does the /:id mean in a route? The : character indicates that the following string represents a parameter name. In this case, the parameter is named "id".
 5. What is the difference between PUT and PATCH?
 6. How do you make a default value in a schema?
-7. What does a 500 error status code mean?
+7. What does a 500 error status code mean? Server error
 8. What is the difference between a status 200 and a status 201?
