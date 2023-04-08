@@ -1,4 +1,8 @@
-# Class 1
+# **Reading-Notes**
+
+## Code 301 - Foundations of Software Development
+
+ Class 1
 
 ## Reading
 
@@ -20,4 +24,7 @@ If you utilize any content directly from the reading sources, be sure to identif
 2. How are props used in React? To pass data
 3. What is the flow of props? Unidirectional
 
+<<<<<<< HEAD:class1.md
 ## Things I want to know more about
+=======
+>>>>>>> 2982dcbc58e119f1f28ea02f815f57aa608ba53e:Reading 301/class1.md
