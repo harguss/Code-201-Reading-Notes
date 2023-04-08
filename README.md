@@ -1,7 +1,11 @@
 # **Reading-Notes**
+
 ## Code 201 - Foundations of Software Development
+
 - [Reading 01](/class1.md)
-- # this is where I write my notes
+
+-# this is where I write my notes
+
 - [Reading 02](/class2.md)
 - [Reading 03](class3.md)
 - [Reading 04](class4.md)
@@ -17,9 +21,10 @@
 - [Reading 14](class14.md)
 - [Reading 15](class15.md)
 
-### A place to share most relevant daily taught information.
+## A place to share most relevant daily taught information
 
 ### 301
+
 - [Reading 01](class1.md)
 - [Reading 02](class2.md)
 - [Reading 03](class3.md)
@@ -35,11 +40,8 @@
 - [Reading 13](class13.md)
 - [Reading 14](class14.md)
 
-
-
 ## Code 401 - Advanced Software Development
 
 - [ ] Add **Career** notes
 - [ ] Add notes from **Reading** assignments
 - [ ] Add **Interesting** code
-
