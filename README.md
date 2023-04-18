@@ -3,10 +3,7 @@
 ## Code 201 - Foundations of Software Development
 <<<<<<< HEAD
 
-- [Reading 01](/class1.md)
-
--# this is where I write my notes
-
+- [Reading 01](/class1.md
 - [Reading 02](/class2.md)
 - [Reading 03](class3.md)
 - [Reading 04](class4.md)
