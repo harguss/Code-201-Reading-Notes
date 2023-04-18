@@ -1,7 +1,6 @@
 # **Reading-Notes**
 
 ## Code 201 - Foundations of Software Development
-<<<<<<< HEAD
 
 - [Reading 01](/class1.md
 - [Reading 02](/class2.md)
@@ -19,9 +18,9 @@
 - [Reading 14](class14.md)
 - [Reading 15](class15.md)
 
-### 301
+## 301
 
-## A place to share most relevant daily taught information
+### A place to share most relevant daily taught information
 
 - [Reading 01](./class1.md)
 - [Reading 02](./class2.md)
@@ -46,5 +45,4 @@
 - [ ] Add **Career** notes
 - [ ] Add notes from **Reading** assignments
 - [ ] Add **Interesting** code
-=======
->>>>>>> 2982dcbc58e119f1f28ea02f815f57aa608ba53e
+
