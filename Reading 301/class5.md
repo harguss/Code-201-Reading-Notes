@@ -1,4 +1,6 @@
-# Class 05- React
+# Reading Notes
+
+## Class 05- React
 
 ## How does this subject matter as it relates to what I am studying?
 
