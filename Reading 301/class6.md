@@ -1,49 +1,89 @@
-# **Reading-Notes**
+# Class 06 Reading Notes - Node.js
 
-## Reading An Introduction to Node.js on sitepoint.com
+## How does this subject matter as it relates to what I am studying?
 
-What is node.js? It is  built on Chromes V8 (open sourced) JavaScript engine
+We are already utilizing npm and node in our labs/ assignments. This helps me better understand the what, why and how to use them in creating applications.  
 
-In your own words, what is Chrome’s V8 JavaScript Engine? It is a JavaScript engine that is responsible for compliling JavaScript directly to native machine codethat your personal computer can execute.This is called JavaScript runtime.
+### [An Introduction to Node.js on sitepoint.com](https://www.sitepoint.com/an-introduction-to-node-js/)
 
-What does it mean that node is a JavaScript runtime? It is not run in the browser but it uses a file systen API, an HTTP library, and other os-relatedutility methods.
+#### What is node.js?
 
-What is npm?
+* a program we can use to execute JavaScript on our computers
 
-What version of node are you running on your machine?  v14.17.3
+#### In your own words, what is Chrome’s V8 JavaScript Engine?
 
-What version of npm are you running on your machine?  
-nghttp2: '1.42.0',
-  node: '14.17.3',
-  openssl: '1.1.1k',
-  tz: '2021a',
-  unicode: '13.0',
-  uv: '1.41.0',
-  v8: '8.4.371.23-node.67',
-  zlib: '1.2.11'
+    * A JavaScript compiler built by Google that is open source and built into both browsers and applications.
 
-What command would you type to install a library/package called ‘jshint’?
-npm install -g jshint
+### What does it mean that node is a JavaScript runtime?
 
-What is node used for? It runs the building tools you have installed with npm to enable you to build a modern Javascript application.
+    * When it sees JS code, it compiles it as it runs it. 
 
-## 6 Reasons for Pair Programming
+### What is npm?
 
-What are the 6 reasons for pair programming?
-1-Greater efficiency
-2-Engaged collaboration
-3-Learning from a fellow student/co-worker
-4-Improves social skills
-5-Job interveiw readiness
-6-Work enviorment readiness
+    * Node packet Manages. 
+    * program that is used to mangage and update node and additional libriaries. 
 
-In your experience, which of these reasons have you found most beneficial? Learning from a fellow student has been very beneficial for me. I really like watching other people code that I have a difficulty starting or completeing.
+### What version of node are you running on your machine?
 
-How does pair programming work?  Usually there is a driver and a navigator. The drivers roll is to execute the typing and their hands will be the only ones touching the keyboard. They manage switching files, text editing, and version control, and writing code.
-The navigators roll is to think about the big picture, what comes next how an algorithim might be converted into code.  They also look for typos or bugs.
+* 19.3.0
 
-## links
+### What version of npm are you running on your machine?
 
-Geocoding API Docs{:target="_blank"}
-Axios docs{:target="_blank"}
-MDN async and await{:target="_blank"}
+* 9.2.0
+
+### What command would you type to install a library/package called ‘jshint’?
+
+* npm install -g jshint
+
+What is node used for?
+to create a sensible development environment in which any modern JavaScript framework (for example, React or Angular) can run.
+
+6 Reasons for Pair Programming
+
+### [What are the 6 reasons for pair programming?](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
+
+1. Greater efficiency
+2. Engaged collaboration
+3. Learning from fellow students
+4. Social skills
+5. Job interview readiness
+6. Work environment readiness
+
+#### In your experience, which of these reasons have you found most beneficial?
+
+* Learning from Fellow Students. Being able to talk through the code, see how others process the information. Gaining knowledge from their strength. Building rappor. All great aspects of pair programming.
+
+#### How does pair programming work?
+
+* "While there are many different styles, pair programming commonly involves two roles: the Driver and the Navigator. The Driver is the programmer who is typing and the only one whose hands are on the keyboard. Handling the “mechanics” of coding, the Driver manages the text editor, switching files, version control, and—of course writing—code. The Navigator uses their words to guide the Driver but does not provide any direct input to the computer. The Navigator thinks about the big picture, what comes next, how an algorithm might be converted in to code, while scanning for typos or bugs. The Navigator might also utilize their computer as a second screen to look up solutions and documentation, but should not be writing any code."
+* Developers explain out loud what the code should do, listen to others’ guidance, read code that others have written, and write code themselves.
+
+## Bookmark and Review
+
+[Geocoding API Docs](https://locationiq.com/)
+[Axios docs](https://www.npmjs.com/package/axios)
+[MDN async and await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)
+
+### Things I want to know more about
+
+I definitely want to study more on Node, Node.js, npm and how to best utilize these to make amazing web pages.
+
+[Promise in JavaScript](https://www.w3schools.com/js/js_promise.asp)
+
+#### What is a JavaScript Promise?
+
+""I Promise a Result!"
+
+"Producing code" is code that can take some time
+
+"Consuming code" is code that must wait for the result
+
+A Promise is a JavaScript object that links producing code and consuming code"
+
+[Using promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
+
+"A Promise is an object representing the eventual completion or failure of an asynchronous operation.
+
+Essentially, a promise is a returned object to which you attach callbacks, instead of passing callbacks into a function.
+
+"Important: Always return results, otherwise callbacks won't catch the result of a previous promise (with arrow functions, () => x is short for () => { return x; }). If the previous handler started a promise but did not return it, there's no way to track its settlement anymore, and the promise is said to be "floating".
