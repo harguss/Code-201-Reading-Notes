@@ -22,8 +22,8 @@
 
 ### A place to share most relevant daily taught information
 
-- [Reading 01](/class1.md)
-- [Reading 02](class2.md)
+- [Reading 01](./class1.md)
+- [Reading 02](./class2.md)
 - [Reading 03](./class3.md)
 - [Reading 04](./class4.md)
 - [Reading 05](./class5.md)
